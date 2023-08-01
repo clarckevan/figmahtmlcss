@@ -1,0 +1,557 @@
+body{
+    background-color: white;
+}
+header{
+    position: relative;
+    top: 2px;
+}
+.rectangle{
+    background-color: rgb(226, 253, 226);
+    width: 1264px;
+    height: 450px;
+    position: relative;
+    margin-left: -9px;
+    border-radius: 0px 0px 50px 50px;
+}
+.hero{
+    position: relative;
+    top: 10px;   
+}
+.navbar{
+    display: flex;
+    margin-left: 300px;
+}
+.log{
+    position: relative;
+    right: -20px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    margin-left: -25px;   
+    width: 100vw;
+    background-color: white;
+    z-index: 2;
+   
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 15px;
+   
+}
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    }
+
+a.p6{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    border: none;
+    background: rgb(19, 137, 19);
+    padding: 12px 30px;
+    border-radius: 30px;
+    color: white;
+    font-size: 10px;
+}
+ 
+.p7{
+    border-bottom-left-radius: 15px;
+    background-clip: content-box;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    border: none;
+    background: rgb(19, 137, 19);
+    padding: 12px 30px;
+    font-size: 10px;
+    }
+    
+.rondtran{
+    background-color: rgb(194, 246, 194);
+    clip-path: circle(20%);
+    width: 600px;
+    height: 500px;
+    position: relative;
+    margin-top: -800px;
+    margin-left: -250px;
+    z-index: 1;
+
+}
+.ptrond{
+    background-color: green;
+    clip-path: circle(20%);
+    width: 80px;
+    height: 70px;
+    position: absolute;
+    margin-top: -280px;
+    margin-left: 140px;
+}
+.triangle{
+    background-color: white;
+    width: 10px;
+    height:15px;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 80%);
+    position:relative;
+    margin-top: -252px;
+    margin-left: 175px;
+}
+.text{
+    text-align: center;
+    position: relative;
+    top: -370px;
+    right: 370px;
+}
+
+
+h5.plouf{
+    font-family: 'Rajdhani', sans-serif;
+}
+.gauche{
+     position: absolute;
+     right: -8px;
+    top: -500px; 
+}
+.block{
+    position: relative;
+    top: -200px;
+}
+
+.blocktran{
+    background-color: rgb(220, 250, 220);
+    width: 250px;
+    height: 300px;
+    position: relative;
+    top: 600px;
+    left: 315px;
+    border-bottom-left-radius: 20px; 
+}
+.block2{
+    background-color: rgb(58, 0, 139);
+    width: 170px;
+    height: 200px;
+    position: relative;
+    top: 348px;
+    left: 393px;
+    border-bottom-left-radius: 20px;
+}
+.pic2{
+    position: relative;
+    right: -206px;
+    top: 138px;
+}
+.ptcarre1{
+    background-color: yellow;
+    height: 60px;
+    width: 60px;
+    border-radius: 100% 0% 18% 82% / 0% 100% 0% 100%;
+   position: relative;
+   top: 780px;
+   left: 242px;
+}
+.ptcarre2{
+    background-color: rgb(6, 72, 6);
+    width: 30px;
+    height: 50px;
+    position: relative;
+    left: 450px;
+    top: 380px;
+    }
+    .divblock1{
+        position: relative;
+    }
+.texte{
+    position: relative;
+    display: flex;
+    right: -630px;
+    width: auto;
+
+}
+h3{
+    position: relative;
+}
+.Almost{
+    position: relative;
+    top: 60px;
+    right: 140px;
+}
+.present{
+    position: relative;
+    top: 120px;
+    right: 325px;
+}
+.fusce{
+    position: relative;
+    top: 160px;
+    right: 650px;
+}
+.iconpoids{
+    position: relative;
+    background-color: rgb(182, 252, 217);
+    width: 40px;
+    height: 30px;
+    border-bottom-left-radius: 10px;
+    top:250px;
+    right: 925px;
+}
+.person{
+    position: relative;
+    background-color: rgb(165, 252, 207);
+    width: 40px;
+    height: 30px;
+    border-bottom-left-radius: 10px;
+    top:250px;
+    right: 906px;
+}
+.rectangle2{
+    background-color: coral;
+    width: px;
+    height: 250px;
+    position: relative;
+    right: -2px;
+    top: 380px;
+    border-top-right-radius: 70px;
+    border-top-left-radius: 70px ;
+}
+.Happy{
+    position: relative;
+    left: 150px;
+    top: 30px;
+}
+.Almost2{
+    position: relative;
+    left: 150px;
+    top: 40px;
+}
+.p8{
+    border-bottom-left-radius: 15px;
+    background-clip: content-box;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    border: none;
+    background: rgb(19, 137, 19);
+    padding: 12px 30px;
+    font-size: 10px;
+    position: relative;
+    left: 700px;
+    top: -40px;
+    border-bottom-left-radius: 10px;
+}
+.blockhor1{
+    background-color: rgb(147, 237, 150);
+    width: 170px;
+    height: 150px;
+    border-bottom-left-radius: 20px;
+    position: relative;
+    top: 40px;
+    left: 150px; 
+}
+.pic{
+    position: relative;
+    right: -200px;
+}
+.blockhor2{
+    background-color: rgb(180, 241, 152);
+    width: 170px;
+    height: 150px;
+    border-bottom-left-radius: 20px;
+    position: relative;
+    top: -110px;
+    left: 375px; 
+}
+.blockhor3{
+    background-color: rgb(143, 232, 140);
+    width: 170px;
+    height: 150px;
+    border-bottom-left-radius: 20px;
+    position: relative;
+    top: -260px;
+    right: -600px;
+}
+.rndpt1{
+    clip-path: circle(10.1% at 51% 46%);
+    background-color: black;
+    width: 150px;
+    height: 80px;
+    position: relative;
+    left: 160px;
+    margin-top: 390px;
+}
+.rndpt2{
+    clip-path: circle(10.1% at 51% 46%);
+    background-color: black;
+    width: 150px;
+    height: 80px;
+    position: relative;
+    left: 380px;
+    top: -420px;
+}
+.rndpt3{
+    clip-path: circle(10.1% at 51% 46%);
+    background-color: black;
+    width: 150px;
+    height: 80px;
+    position: relative;
+    left: 620px;
+    top: -160px;
+}
+.rndhaut1{
+    position: relative;
+    width: 25px;
+    height: 35px;
+    top: -400Px;
+    right: -220px;
+}
+.rndhaut2{
+    position: relative;
+    width: 25px;
+    height: 35px;
+    top: 308Px;
+    right: -450px;
+}
+.rndhaut3{
+    position: relative;
+    width: 25px;
+    height: 35px;
+    top: 308Px;
+    right: -640px;
+}
+.recblock{
+    position: relative;
+    top: -300px;
+
+}
+.textb{
+    position: relative;
+    right: -450px;
+    top: -120px;
+}
+.golight{
+    position: relative;
+    right: -360px;
+    top: 100px;
+}
+.textc{
+    position: relative;
+    top: -120px;
+    right: -450px;
+}
+.textd{
+    position: relative;
+    top: -130px;
+    right:-450px ;
+}
+.healthy{
+    position: relative;
+}
+.maneno{
+    position: relative;
+    width: 630px;
+    height: 350px;
+    top: -100px;
+    right: -150px;
+
+}
+.lastet{
+    position: relative;
+    top: -90px;
+    right: -430px;
+}
+.daily{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    top: -120px;
+    right: -150px;
+}
+.healthyfood{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    top: -100px;
+    right: -230px;
+}
+.smoothie{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    top: -100px;
+    right: -310px;
+}
+.dailymeal{
+    position: relative;
+    top: -95px;
+    right: -150px;
+}
+.foodgreat{
+    position: relative;
+    top: -128px;
+    right: -350px;
+}
+.everyday{
+    position: relative;
+    top: -160px;
+    right: -650px;
+}
+.praesent1{
+    position: relative;
+    top: -170px;
+    right: -150px;
+    width: 100px;
+}
+.praesent2{
+    position: relative;
+    top: -327px;
+    right: -400px;
+    width: 100px;
+}
+.praesent3{
+    position: relative;
+    top: -485px;
+    right: -670px;
+    width: 100px;
+}
+.health{
+    position: relative;
+    top: -330px;
+}
+.footblock{
+    position: relative;
+    top: -900Px;
+}
+.footer1{
+    height: 870px;
+    width: 100%;
+    position: relative;
+    background-color: rgb(198, 233, 198);
+    border-radius: 16% 100% 100% 0% / 27% 22% 0% 20% ;
+    top: -10px;
+    opacity: .7;
+    z-index: 0;
+}
+
+.footer1 h1{
+    margin-top: 250px;
+    margin-left: 36px;
+    font-size: 32px;
+}
+.footer1 a{
+    color: black;
+}
+
+.footer1 ul{
+    display: flex;
+    margin-right: 1000px;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.footer1 ul a{
+    color: black;
+    position: relative;
+    top: 340px;
+    right: -100px;
+    padding: 10px;
+
+}
+
+.endlogo{
+    width: 230px;
+    height: 230px;
+    background-color: rgb(222, 109, 22);
+    position: absolute;
+    clip-path: circle(9.7% at 50% 50%);
+    left: -60px;
+}
+.endlogo1{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    top: 640px;
+    left: 45px;
+}
+.couch{
+    position: relative;
+    top: 350px;
+    right: -100px;
+}
+.endlogo2{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    top: 640px;
+    left: 102px;
+}
+
+
+.r3{
+    width: 230px;
+    height: 230px;
+    background-color: rgb(135, 207, 149);
+    position: absolute;
+    clip-path: circle(9.7% at 50% 50%);
+    left: 55px;
+}
+.endlogo3{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    top: 640px;
+    left: 159px;
+}
+.letter h1{
+    font-size: 22px;
+    color: rgb(5, 78, 5);
+    position: relative;
+    top: -630px;
+    left: 810px;
+}
+.submit input{
+    background-color: white;
+    height: 50px;
+    text-align: center;
+    border-bottom-left-radius: 20px;
+    border: none;
+    font-size: 17px;
+    position: relative;
+    top: -620px;
+    left: 807px;
+    width: 20rem;
+}
+
+.submit button{
+    border: none;
+    height: 50px;
+    font-size: 17px;
+    background-color: #156827;
+    border-bottom-left-radius: 20px;
+    color: white;
+    top: 370px;
+    left: 810px;
+    position: absolute;
+    width: 20rem;
+}
+
+.submit p{
+    position: relative;
+    top: -580px;
+    left: 810px;
+}
+.fin1{
+    position: absolute;
+    
+}
+
+
+            
+
+
+
+
+
